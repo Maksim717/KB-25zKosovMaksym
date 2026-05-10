@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1778424245 source:c:\bmtp-lab9-kosov\prj\testdriver_lab9\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"..\ModulesKosov\ModulesKosov.h"
+
+1778422862 c:\bmtp-lab9-kosov\prj\moduleskosov\moduleskosov.h
+
