@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1778506059 source:c:\users\maks\documents\lab12\prj\lab12_kosov\moduleskosov.cpp
+
+1778504102 c:\users\maks\documents\lab12\prj\lab12_kosov\moduleskosov.h
+	<string>
+	<iostream>
+	<windows.h>
+	<cmath>
+

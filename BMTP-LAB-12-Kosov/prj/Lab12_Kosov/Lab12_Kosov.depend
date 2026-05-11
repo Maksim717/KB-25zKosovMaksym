@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1778497793 source:c:\users\maks\documents\bmtp-lab-12-kosov\prj\lab12_kosov\classlab12_kosov.cpp
+	"ClassLab12_Kosov.h"
+	<cmath>
+
+1778497738 c:\users\maks\documents\bmtp-lab-12-kosov\prj\lab12_kosov\classlab12_kosov.h
+	<string>
+
+1778500029 source:c:\users\maks\documents\bmtp-lab-12-kosov\prj\lab12_kosov\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<direct.h>
+	<cstdio>
+	"ModulesKosov.h"
+
+1778499974 c:\users\maks\documents\bmtp-lab-12-kosov\prj\lab12_kosov\moduleskosov.h
+	<string>
+	<iostream>
+	<windows.h>
+	<cmath>
+
+1778500029 source:c:\users\maks\documents\lab12\prj\lab12_kosov\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<direct.h>
+	<cstdio>
+	"ModulesKosov.h"
+
+1778501345 c:\users\maks\documents\lab12\prj\lab12_kosov\moduleskosov.h
+	<string>
+	<iostream>
+	<windows.h>
+	<cmath>
+
+1778500183 source:c:\users\maks\documents\lab12\prj\lab12_kosov\moduleskosov.cpp
+	"ModulesKosov.h"
+
