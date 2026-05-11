@@ -1,0 +1,16 @@
+EXPORTS
+    _Z19findStudentInBinaryNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEi @1
+    _Z19saveStudentToBinaryNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE @2
+    _Z22countWordsEndingWithYaNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES4_ @3
+    _ZN9__gnu_cxx11char_traitsIcE2eqERKcS3_ @4
+    _ZN9__gnu_cxx11char_traitsIcE6lengthEPKc @5
+    _ZNSt11char_traitsIcE6lengthEPKc @6
+    _ZNSt15__new_allocatorIcED2Ev @7
+    _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_Alloc_hiderD1Ev @8
+    _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tag @9
+    _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1IS3_EEPKcRKS3_ @10
+    _ZStorSt13_Ios_OpenmodeS_ @11
+    _ZStrsIcSt11char_traitsIcEERSt13basic_istreamIT_T0_ES6_PS3_ @12
+    _ZZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tagEN6_GuardC1EPS4_ @13
+    _ZZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tagEN6_GuardD1Ev @14
+    main @15

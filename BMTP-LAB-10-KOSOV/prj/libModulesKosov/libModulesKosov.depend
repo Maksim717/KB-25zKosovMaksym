@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1778486254 source:c:\users\maks\documents\lab10_kosov\libmoduleskosov\moduleskosov.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	"ModulesKosov.h"
+
+1778486673 c:\users\maks\documents\lab10_kosov\libmoduleskosov\moduleskosov.h
+	<string>
+
+1778488840 source:c:\users\maks\documents\lab10_kosov\prj\moduleskosov\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	"ModulesKosov.h"
+
+1778487534 c:\users\maks\documents\lab10_kosov\prj\moduleskosov\moduleskosov.h
+	<string>
+

@@ -1,0 +1,2 @@
+Author: Maxim Kosov
+Found words ending with 'ya': 0

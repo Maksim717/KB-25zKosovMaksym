@@ -1,0 +1,6 @@
+EXPORTS
+    _Z19findStudentInBinaryNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEi @1
+    _Z19saveStudentToBinaryNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE @2
+    _Z22countWordsEndingWithYaNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES4_ @3
+    _ZNKSt5ctypeIcE8do_widenEc @4
+    main @5
